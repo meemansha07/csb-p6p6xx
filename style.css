@@ -1,0 +1,19 @@
+.out {
+  background-color: peachpuff;
+  width: 50%;
+  height: 500px;
+}
+
+/* .in {
+  background-color: yellow;
+  width: 50%;
+  height: 300px; */
+
+P {
+  font-size: 2em;
+}
+.asta {
+  width: 80%;
+  border: 10px inset black;
+  box-shadow: 10px 10px 5px black;
+}
